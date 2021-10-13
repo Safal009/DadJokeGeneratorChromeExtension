@@ -1,0 +1,13 @@
+{
+    "manifest_version" : 2,
+    "name": "Dad Joke Generator",
+    "description": "Spills out the lamest dad jokes an extension by Safal Bhandari",
+    "version": "1.0.0",
+    "icons": {"128": "1971.jpg"},
+    "browser_action":{
+        "default_icon": "1971.jpg",
+        "default_popup": "index.html"
+    },
+    "permissions":["activeTab"]
+
+}
